@@ -1,0 +1,18 @@
+site_name: Computer Architecture & Organization Labs
+site_url: http://scu-ccs-coa-labs.github.io
+site_author: Tiger1218
+theme:
+  name: material
+
+nav: 
+  - Overview: index.md
+  - Configure Experimental Environment: environments.md
+  - About: about.md
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist
