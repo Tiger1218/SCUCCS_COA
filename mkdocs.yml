@@ -6,8 +6,21 @@ theme:
 
 nav: 
   - Overview: index.md
-  - Configure Experimental Environment: environments.md
+  - Experimental Environment:
+    - Environment Overview: envs/index.md
+    - git Configure: envs/git.md
+    - Python Configure: envs/python.md
   - About: about.md
+  - Labs:
+    - Lab Overview: labs/index.md
+    - Cache Lab: labs/cache.md
+    - IEEE 754 Lab: labs/ieee754.md
+    - CRC Lab: labs/crc.md
+    - Booth Lab: labs/booth.md
+  - Projects:
+    - Project Overview: projects/index.md
+    - SCUBA: projects/scuba.md
+
 
 
 
